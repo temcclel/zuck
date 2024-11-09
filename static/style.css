@@ -1,0 +1,44 @@
+body {
+	background-color: black;
+}
+
+h1 {
+	text-align: center;
+	color: #967eae;
+}
+p {
+	text-align: center;
+  color: #967eae
+}
+h2 {
+	text-align: center;
+	color: #967eae;
+}
+a:link {
+	color: purple;
+}
+a:visited {
+	color: purple;
+}
+a:hover {
+	color: #967eae;
+}
+a:active {
+	color: #967eae;
+}
+ul {
+	
+}
+.actions {
+	align:middle;
+}
+.action {
+	border: solid;
+	padding: 5px;
+	text-decoration: none;
+	display: block;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
